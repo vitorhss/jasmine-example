@@ -1,4 +1,4 @@
-function Paciente(nome, idade, peso altura){
+function Paciente(nome, idade, peso, altura){	
 	
 	var clazz = {
 
